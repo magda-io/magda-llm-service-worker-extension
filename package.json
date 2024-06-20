@@ -20,6 +20,6 @@
     "url": "^0.11.1"
   },
   "dependencies": {
-    "@mlc-ai/web-llm": "https://github.com/t83714/web-llm.git#build"
+    "@mlc-ai/web-llm": "^0.2.46"
   }
 }

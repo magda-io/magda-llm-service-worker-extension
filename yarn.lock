@@ -88,9 +88,10 @@
     "@lezer/lr" "^1.0.0"
     json5 "^2.2.1"
 
-"@mlc-ai/web-llm@https://github.com/t83714/web-llm.git#build":
+"@mlc-ai/web-llm@^0.2.46":
   version "0.2.46"
-  resolved "https://github.com/t83714/web-llm.git#9959176dfde8df39a1e9b1cd628610252aac2428"
+  resolved "https://registry.yarnpkg.com/@mlc-ai/web-llm/-/web-llm-0.2.46.tgz#bf32dab0710dba4967d49b2810b39184272d8840"
+  integrity sha512-NGf5ylTvOVwH1iN4Q2N0t/GfmrjDekFPMjWRO/WqEB3BhSC6+B2ZkLY3AZ43c2RbT2NqROp3BovgNq3Mxq3ONQ==
   dependencies:
     loglevel "^1.9.1"
 
@@ -1893,6 +1894,7 @@ stable@^0.1.8:
   integrity sha512-ji9qxRnOVfcuLDySj9qzhGSEFVobyt1kIOSkj1qZzYLzq7Tos/oUUWvotUPQLlrsidqsK6tBH89Bc9kL5zHA6w==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -1911,6 +1913,7 @@ string-width@^5.0.1, string-width@^5.1.2:
     strip-ansi "^7.0.1"
 
 "strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  name strip-ansi-cjs
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
