@@ -12,8 +12,7 @@ Under the web application frontend code's requests, the extension will download 
 The extension has not been published to [Google Chrome Web Store](https://chromewebstore.google.com/) yet.
 
 To install, you need to follow the manual steps below:
-- 1> Download a release version from the [Releases page](https://github.com/magda-io/magda-llm-service-worker-extension/releases) of this repo. e.g. `magda-llm-service-worker-extension-v1.0.0.zip
-`
+- 1> Download a release version from the [Releases page](https://github.com/magda-io/magda-llm-service-worker-extension/releases) of this repo. e.g. `magda-llm-service-worker-extension-v1.0.0.zip`
 - 2> Unzip the downloaded zip file
 - 3> Open the URL `chrome://extensions` in a Chrome tab to open the Chrome extension management UI.
 - 4> Tick the "Developer mode" toggle in the top-right corner.
