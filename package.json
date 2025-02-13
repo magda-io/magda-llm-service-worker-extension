@@ -1,6 +1,6 @@
 {
   "name": "magda-llm-service-worker-extension",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Google chrome extension runs LLM in extension background service worker to support Magda frontend chatbot",
   "private": true,
   "scripts": {
@@ -12,6 +12,8 @@
   "devDependencies": {
     "@parcel/config-webextension": "^2.9.3",
     "@types/chrome": "^0.0.242",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
     "buffer": "^6.0.3",
     "parcel": "^2.9.3",
     "prettier": "^3.3.2",
@@ -20,6 +22,9 @@
     "url": "^0.11.1"
   },
   "dependencies": {
-    "@mlc-ai/web-llm": "0.2.73"
+    "@mlc-ai/web-llm": "0.2.73",
+    "react": "^19.0.0",
+    "react-async-hook": "^4.0.0",
+    "react-dom": "^19.0.0"
   }
 }
