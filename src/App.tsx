@@ -58,6 +58,13 @@ const App: FunctionComponent = () => {
                     )}
                 />
             ) : null}
+            <p>
+                {" "}
+                Sites allowed to connect:{" "}
+                {manifest?.externally_connectable?.matches?.length
+                    ? manifest.externally_connectable.matches.join(", ")
+                    : "None"}{" "}
+            </p>
             <a
                 className="homepage-link"
                 href={

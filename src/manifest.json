@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Magda LLM Service Worker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Running LLM with the service worker to support Magda web application chatbot.",
   "homepage_url": "https://github.com/magda-io/magda-llm-service-worker-extension",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3KRtpIMkfABCtDsbJo/IMpRRY9eNd528mDcWeUQBynSXSaKLmQ4ZnYbW0KkdfjwBkbb9CByWhmi2YjMdsXpI1wCtJYbn4Xz8bOdBR6p9GR50jjT81IhfQ5PydvIQepDUka8asy5uYRpS0umJ813JHhuftqF+kFYI/jJKfgWWvzc4el8K3HeXrQUrlig2jzAtVeqQvBzTNTsDavSyimDVIRSHY2wAnX8Aq2J30QNKkn8XmP/eSOrW0SJbD7tFINvhmmJzEX7jy5YOO7z8G3kzN8Jg9FLC3xAi1tNARQV50P5clHvXvQyGGLVfB38JulE0kexDA7jTH3DnAz8cn1hWNwIDAQAB",
