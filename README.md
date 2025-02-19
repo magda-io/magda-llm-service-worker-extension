@@ -9,7 +9,7 @@ Under the web application frontend code's requests, the extension will download 
 
 ### How to install
 
-The extension has been published to [Google Chrome Web Store](https://chromewebstore.google.com/detail/magda-llm-service-worker/ljadmjdilnpmlhopijgimonfackfngmi) and you can install it from there.
+The extension has been published to [Google Chrome Web Store](https://chromewebstore.google.com/detail/magda-llm-service-worker/ljadmjdilnpmlhopijgimonfackfngmi) and you can install it from [there](https://chromewebstore.google.com/detail/magda-llm-service-worker/ljadmjdilnpmlhopijgimonfackfngmi.
 
 > Please note: the published version only allows connections from `*.magda.io` (This can be adjusted via [manifest.json](./src/manifest.json). See How to build for more details).
 > If you need a version that accepts connections from any domains (including localhost) for testing & evaluation.
