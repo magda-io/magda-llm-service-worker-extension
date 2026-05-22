@@ -23,7 +23,7 @@
     "type": "module"
   },
   "externally_connectable": {
-    "matches": ["<all_urls>"]
+    "matches": ["http://localhost:*/*", "https://*.magda.io/*"]
   },
   "permissions": ["unlimitedStorage"]
 }
